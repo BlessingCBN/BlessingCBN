@@ -2,7 +2,7 @@
 - 👀 As someone passionate about problem solving, i leverage on data science, technology, the knowledge and skillset i acquire as i progress to proffer insights and winning/actionable solutions to prospective clients.
 - 🌱 I’m currently learning data analytics with DaHel Techies, exploring the path of data analytics and passionately developing my skillset using Power BI, MS EXcel, Tableau and SQL tools. 
 - 💞️ I’m looking to collaborate with startups and business owners interested in a more thorough dissection of their books and data to rake in more sales and revenue.
-- 📫 How to reach me on [linkedin](https://www.linkedin.com/in/cbn123)
+- 📫 Reach me on [linkedin](https://www.linkedin.com/in/cbn123)
 
 #### MY WORK EXPERIENCE AND PROJECTS
 Within this enclosure, you will find my previous and ongoing projects on data analytics, data visualizations and other learning models, to be updated as i go along. Within each repository is the detailing of the project; the objectives, the processes employed and the corresponding insights and visuals. 
