@@ -7,7 +7,7 @@
 #### MY WORK EXPERIENCE AND PROJECTS
 Within this enclosure, you will find my previous and ongoing projects on data analytics, data visualizations and other learning models, to be updated as i go along. Within each repository is the detailing of the project; the objectives, the processes employed and the corresponding insights and visuals. 
 
-I'm open to collaborations, suggestions, feedbacks and constructive criticism as i am big on learning daily. Please, feel free to explore and also reach out if you have any collaborative work that demands excellent and prompt delivery.
+I'm open to collaborations, suggestions, feedbacks and constructive criticism as i am big on learning daily. Please, feel free to explore and also reach out if you have any collaborative work that demands excellence and prompt delivery.
 
 
 #### MY WORK COMPANIONS
