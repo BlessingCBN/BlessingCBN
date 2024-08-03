@@ -1,7 +1,7 @@
 # 👋 My name is Blessing CBN. Welcome to my page
 - 👀 As someone passionate about problem solving, i leverage on data science, technology, the knowledge and skillset i acquire as i progress to proffer insights and winning/actionable solutions to prospective clients.
 - 🌱 I started my data analytics journey with DaHel Techies, exploring the path of data analytics and passionately developed my skillset using Power BI, MS Excel, Tableau and SQL tools. I have evolved and improved my expertise through internships and taking up opportunities for learning.
-- 💞️ I’m looking to collaborate with startups and business owners interested in a more thorough dissection of their books and data to rake in more sales and revenue. i'm also open for internship opportunities to further improve my expertise and know-how.
+- 💞️ I’m looking to collaborate with startups and business owners interested in a more thorough dissection of their books and data to rake in more sales and revenue. I'm also open for internship opportunities to further improve my expertise and know-how.
 - 📫 Reach me on [linkedin](https://www.linkedin.com/in/cbn123)
 
 #### MY WORK EXPERIENCE AND PROJECTS
